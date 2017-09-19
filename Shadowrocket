@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,mzstatic.com,DIRECT
 DOMAIN-SUFFIX,google.cn,DIRECT
 DOMAIN-SUFFIX,baidu.com,DIRECT
 DOMAIN-SUFFIX,smzdm.com,DIRECT
+DOMAIN-SUFFIX,legoloto.us,DIRECT
 DOMAIN-SUFFIX,0rz.tw,Proxy,force-remote-dns
 DOMAIN-SUFFIX,0to255.com,Proxy,force-remote-dns
 DOMAIN-SUFFIX,100lu.com,Proxy,force-remote-dns
